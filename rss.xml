@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[mervynlim]]></title>
-        <description><![CDATA[mervynlim]]></description>
+        <title><![CDATA[Mervyn Lim]]></title>
+        <description><![CDATA[Mervyn Lim]]></description>
         <link>https://thegrid.ai/mervynlim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 02:47:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 02:57:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mervynlim/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Product Hunt really works]]></title>
+            <description><![CDATA[<article><h1>How Product Hunt really works</h1><p>Earlier this year, having devoted countless hours to creating my latest app, I took a step that has become a universal milestone in the tech world: I submitted it to Product Hunt. I hoped to see it chosen to be featured on the site's front page.</p><img src="https://cdn-images-1.medium.com/max/800/1*k35HFI0gb0KZ4HXUjdwhcg.jpeg"></article>]]></description>
+            <link>https://medium.com/@benjiwheeler/how-product-hunt-really-works-d8fdcda1da74#.oba364fu5</link>
+            <guid isPermaLink="false">10b455cd-4b37-4b3f-ad1a-bbf55467332e</guid>
+            <pubDate>Thu, 17 Dec 2015 02:57:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9cb9fb8e-80ec-48a2-ab16-e0ec50adb014.jpg">]]></description>
