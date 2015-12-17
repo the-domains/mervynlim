@@ -1,7 +1,7 @@
 name: mervynlim
 favicon: null
-layout_spectrum: 0.7421688905451447
-typography_spectrum: 0.6437719976529479
+layout_spectrum: 0.74602
+typography_spectrum: 0.65726
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7852716406341642
-  lightness: 0.2914216471835971
-  saturation: 0.19688445259816945
-  rhythmicContrast: 0.7454330758191645
+    - '#363233'
+    - '#e4e4e2'
+    - '#fcad71'
+    - '#a66663'
+    - '#fdea5e'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
