@@ -4,7 +4,7 @@
         <description><![CDATA[Mervyn Lim]]></description>
         <link>https://thegrid.ai/mervynlim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 11:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 13:31:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mervynlim/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[News]]></title>
@@ -54,13 +54,6 @@
             <link>https://thegrid.ai/mervynlim/218968bd-9cc8-4309-8db3-b441d51e4a02/index.html</link>
             <guid isPermaLink="false">218968bd-9cc8-4309-8db3-b441d51e4a02</guid>
             <pubDate>Thu, 17 Dec 2015 05:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f37f068-dc11-4a3a-9ba1-7f0d54f408c9.jpg">]]></description>
-            <link>https://thegrid.ai/mervynlim/a68305e2-08fd-44d9-bab5-81f034fbe83d/index.html</link>
-            <guid isPermaLink="false">a68305e2-08fd-44d9-bab5-81f034fbe83d</guid>
-            <pubDate>Thu, 17 Dec 2015 10:34:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
