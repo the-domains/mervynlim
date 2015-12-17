@@ -1,6 +1,6 @@
 name: mervynlim
 favicon: null
-layout_spectrum: 0.74602
+layout_spectrum: 0.43167
 typography_spectrum: 0.65726
 title: Mervyn Lim
 cta:
@@ -22,8 +22,8 @@ color:
     - '#fcad71'
     - '#a66663'
     - '#fdea5e'
-  brandStrength: 0.25
+  brandStrength: 0.1875
   lightness: 0.5625
-  saturation: 0.3125
-  rhythmicContrast: 0.75
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
