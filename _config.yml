@@ -1,5 +1,8 @@
+name: mervynlim
+favicon: null
+layout_spectrum: 0.23757
+typography_spectrum: 0.6671
 title: Mervyn Lim
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6875
-  lightness: 0.687234
-  brandStrength: 0.1468085
   brandColors:
     - '#EAAC87'
     - '#5CA4B3'
     - '#FBF3F2'
     - '#AC885B'
     - '#2F2720'
+  brandStrength: 0.1468085
+  lightness: 0.687234
+  saturation: 0.6875
   rhythmicContrast: 0.3829787
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: mervynlim
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.65726
-layout_spectrum: 0.912766
+purpose: []
